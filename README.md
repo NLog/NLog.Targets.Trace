@@ -1,5 +1,8 @@
 # NLog Trace Target
 
+[![Version](https://badge.fury.io/nu/NLog.Targets.Trace.svg)](https://www.nuget.org/packages/NLog.Targets.Trace)
+[![AppVeyor](https://img.shields.io/appveyor/ci/nlog/NLog-Targets-Trace/master.svg)](https://ci.appveyor.com/project/nlog/NLog-Targets-Trace/branch/master)
+
 NLog Trace Target for writing to System.Diagnostics.Trace for each logevent.
 
 If having trouble with output, then check [NLog InternalLogger](https://github.com/NLog/NLog/wiki/Internal-Logging) for clues. See also [Troubleshooting NLog](https://github.com/NLog/NLog/wiki/Logging-Troubleshooting)
