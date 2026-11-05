@@ -2,6 +2,7 @@
 
 [![Version](https://badge.fury.io/nu/NLog.Targets.Trace.svg)](https://www.nuget.org/packages/NLog.Targets.Trace)
 [![Build status](https://github.com/NLog/NLog.Targets.Trace/actions/workflows/ci.yml/badge.svg?branch=master)](https://github.com/NLog/NLog.Targets.Trace/actions/workflows/ci.yml)
+[![codecov](https://codecov.io/gh/NLog/NLog.Targets.Trace/graph/badge.svg?token=2O58CRZZ4I)](https://codecov.io/gh/NLog/NLog.Targets.Trace)
 
 NLog Trace Target for writing to System.Diagnostics.Trace for each logevent.
 
