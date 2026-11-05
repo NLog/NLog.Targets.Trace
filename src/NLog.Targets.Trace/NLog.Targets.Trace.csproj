@@ -19,6 +19,8 @@
     <Copyright>Copyright (c) 2004-$(CurrentYear) NLog Project - https://nlog-project.org/ </Copyright>
 
     <PackageReleaseNotes>
+Removed .NET 3.5 binary (note: .NET 3.5 is End of Life)
+
 Trace-Target Docs:
 https://github.com/NLog/NLog/wiki/Trace-target
 
