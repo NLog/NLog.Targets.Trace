@@ -1,7 +1,7 @@
 # NLog Trace Target
 
 [![Version](https://badge.fury.io/nu/NLog.Targets.Trace.svg)](https://www.nuget.org/packages/NLog.Targets.Trace)
-[![AppVeyor](https://img.shields.io/appveyor/ci/NLog/NLog-Targets-Trace/master.svg)](https://ci.appveyor.com/project/NLog/NLog-Targets-Trace/branch/master)
+[![Build status](https://github.com/NLog/NLog.Targets.Trace/actions/workflows/ci.yml/badge.svg?branch=master)](https://github.com/NLog/NLog.Targets.Trace/actions/workflows/ci.yml)
 
 NLog Trace Target for writing to System.Diagnostics.Trace for each logevent.
 
