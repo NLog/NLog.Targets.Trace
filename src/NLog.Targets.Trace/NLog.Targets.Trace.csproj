@@ -20,7 +20,7 @@
 
     <PackageReleaseNotes>
 - Updated to NLog 6.2.2
-- Removed .NET 3.5 binary (note: .NET 3.5 is End of Life)
+- Removed .NET 4.5 binary (note: .NET 4.5 is End of Life)
 
 Trace-Target Docs:
 https://github.com/NLog/NLog/wiki/Trace-target
